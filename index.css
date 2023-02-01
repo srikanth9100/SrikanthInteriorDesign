@@ -1,0 +1,487 @@
+@import "index2.css";
+body{
+    margin: 0px;
+}
+.navimg{
+    height: 140px;
+    background-color:white
+}
+#rr{
+    /* border: 1px solid; */
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+ol{
+    /* border: 1px solid; */
+    width: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-left: 700px;
+    margin-top:-80px;
+}
+a{
+    text-decoration-line: none;
+    color: rgb(103, 99, 99);
+
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+#demo{
+    background-image: url("./img1.jpg");
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: 100%;
+
+}
+#ray{
+    /* border: 1px solid; */
+    background-color: white;
+    height: 60px;
+    width: 750px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    font-size: 45px;
+    font-weight: 60;
+    letter-spacing: 3px;
+    font-family:serif;
+    opacity: 0.6;
+    text-align: center; 
+}
+#ray1{
+    /* border: 1px solid; */
+    background-color: white;
+    height: 60px;
+    width: 1050px;
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    font-size: 20px;
+    font-family: serif;
+    letter-spacing: 2px;
+    opacity: 0.9;
+}
+.om{
+    /* border: 1px solid; */
+    height: 300px;
+}
+
+.om1{
+    background-color: white;
+    
+    position:absolute;
+    left: 300px;
+    top: 900px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-style: normal;
+    opacity: 0.8;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+.om2{
+    /* border: 1px solid; */
+    /* background-color: white; */
+    height: 150px;
+    width: 950px;
+    position:absolute;
+    left: 300px;
+    top: 950px;
+    font-size: 19px;
+    opacity: 0.8;
+
+}
+#demo1{
+    background-image: url("./Ray+Romano+Contracting+combination+renovation+luxury+contemporary+Upper+East+Side+NYC+Hamptons+Brooklyn+NJ.jpg");
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: 100%;
+}
+#om3{
+   /* border: 1px solid;  */
+   background-color: white;
+   width: 800px;
+   height: 100px;
+   font-size: 40px;
+    font-weight: 60;
+    letter-spacing: 3px;
+    font-family:serif;
+    opacity: 0.6;
+    position: absolute;
+    top: 1300px;
+    left: 100px;
+
+}
+#demo2{
+    /* border: 1px solid; */
+    height: 400px;
+}
+.om4{
+    position:absolute;
+    left: 300px;
+    top: 1900px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: normal;
+    opacity: 0.8;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.om5{
+        /* border: 1px solid; */
+    /* background-color: white; */
+    height: 150px;
+    width: 950px;
+    position:absolute;
+    left: 300px;
+    top: 1940px;
+    font-size: 19px;
+    opacity: 0.8;
+}
+#demo3{
+    background-image: url("./Ray+Romano+Hamptons+Sag+Harbor+renovation.jpg");
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: 100%;
+}
+.om6{
+    background-color: white;
+    height: 60px;
+    width: 250px;
+    position: absolute;
+    top: 2300px;
+    left: 100px;
+    font-size: 45px;
+    font-weight: 60;
+    letter-spacing: 3px;
+    font-family:serif;
+    opacity: 0.6;
+    text-align: center;
+}
+#demo4{
+   /* border: 1px solid; */
+   height: 400px;
+
+}
+.om7{
+    position:absolute;
+    left: 300px;
+    top: 3000px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: normal;
+    opacity: 0.8;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.om8{
+    height: 150px;
+    width: 950px;
+    position:absolute;
+    left: 300px;
+    top: 3050px;
+    font-size: 19px;
+    opacity: 0.8;
+
+}
+#demo5{
+    background-image: url("./1040.jpg");
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.om9{
+    background-color: white;
+    height: 60px;
+    width: 400px;
+    position: absolute;
+    top: 3400px;
+    left: 100px;
+    font-size: 45px;
+    font-weight: 60;
+    letter-spacing: 3px;
+    font-family:serif;
+    opacity: 0.6;
+    text-align: center;
+}
+#demo6{
+    /* border: 1px solid; */
+    height: 400px;
+ 
+ }
+ .om10{
+    position:absolute;
+    left: 300px;
+    top: 4100px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: normal;
+    opacity: 0.9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+ }
+ .span1{
+    font-weight: 900;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ .om11{
+    height: 150px;
+    width: 950px;
+    position:absolute;
+    left: 300px;
+    top:4150px;
+    font-size: 15px;
+    opacity: 0.8;
+ }
+ .om12{
+    position:absolute;
+    left: 300px;
+    top: 4200px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: normal;
+    opacity: 0.9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+ .om13{
+    height: 150px;
+    width: 950px;
+    position:absolute;
+    left: 300px;
+    top:4249px;
+    font-size: 15px;
+    opacity: 0.8;
+ }
+ .om14{
+    position:absolute;
+    left: 300px;
+    top: 4300px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: normal;
+    opacity: 0.9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+ .om15{
+    height: 150px;
+    width: 950px;
+    position:absolute;
+    left: 300px;
+    top:4350px;
+    font-size: 15px;
+    opacity: 0.8;
+ }
+ #demo7{
+    background-image: url("./background.jpg");
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .om16{
+    background-color: white;
+    height: 60px;
+    width: 250px;
+    position: absolute;
+    top: 4500px;
+    left: 100px;
+    font-size: 45px;
+    font-weight: 60;
+    letter-spacing: 3px;
+    font-family:serif;
+    opacity: 0.6;
+    text-align: center;
+ }
+ #demo8{
+    /* border: 1px solid; */
+    height: 1000px;
+ }
+ #img1{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 300px;
+    top: 5200px;
+
+ 
+ }
+  h6{
+   position: absolute;
+   left: 300px;
+   top: 5440px;
+   opacity: 0.7;
+
+ } 
+ #img2{
+
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 650px;
+    top: 5200px;
+    font-size: 12px;
+   
+ }
+ #h61{
+    position: absolute;
+    left: 650px;
+    /* bottom: -4850px; */
+    top: 5440px;
+    font-size: 12px;
+    opacity: 0.7;
+ }
+ #img3{
+    
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 1000px;
+    top: 5200px;
+
+ }
+ #h62{
+    position: absolute;
+    left: 1010px;
+    top: 5440px;
+    font-size: 12px;
+    opacity: 0.7;
+ }
+ #img4{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 300px;
+    top: 5500px;
+
+
+ }
+ #h63{
+    position: absolute;
+    left: 300px;
+   top: 5740px;
+    font-size: 12px;
+    opacity: 0.7;
+ 
+ }
+ #img5{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 650px;
+    top: 5500px;
+ }
+ #h64{
+    position: absolute;
+    left: 650px;
+    top: 5740px;
+    font-size: 12px;
+    opacity: 0.7;
+ }
+#img6{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 1000px;
+    top: 5500px;
+}
+#h65{
+    position: absolute;
+    left: 1010px;
+    top: 5740px;
+    font-size: 12px;
+    opacity: 0.7;
+ }
+ #img7{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 300px;
+    top: 5800px;
+
+ }
+ #h66{
+    position: absolute;
+   left: 300px;
+   top: 6040px;
+   font-size: 12px;
+   opacity: 0.7;
+ }
+ #top1{
+    /* border: 1px solid; */
+    font-size: 20px;
+    color: black;
+    text-transform: capitalize;
+    background-color: white;
+    margin-left: 720px;
+    border-radius: 100%;
+
+ }
+#bottom{
+    /* border: 1px solid; */
+    height: 300px;
+}
+#bottom1{
+    border: 1px solid;
+    height: 150px;
+    margin-top: 60px;
+    background-color: black;
+    opacity: 0.9;
+}
+
+ul{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 50px; 
+
+
+}
+li{
+    list-style: none;
+    margin-left: 30px;
+    
+}
+i{
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 100%;
+    padding: 5px;
+    padding-top: 7px;
+}
+#pp{
+    margin-left: 120px;
+    font-size: 17px;
+    color: white;
+}
+#pp1{
+    margin-left: 50px;
+    font-size: 17px;
+    color: white;
+
+}
+#pp2{
+    margin-left: 30px;
+    font-size: 17px;
+    color: white;
+}
